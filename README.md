@@ -16,26 +16,14 @@
 | Windows  | CLI       | [ShadowExtension.7z](./ShadowExtension.7z) |
 
 ## Usage
-
-ShadowExtension.exe -s
-
-→ Scan all local browsers (all users)
-
-ShadowExtension.exe -csv <output_path> -s
-→ Scan all local browsers and export results to CSV
-
-ShadowExtension.exe -json <output_path> -s
-→ Scan all local browsers and export results to JSON
-
-ShadowExtension.exe -d <user_path> -s
- → Scan a specific browser data folder
-
-ShadowExtension.exe -d <user_path> -csv <output_path> -s
-→ Scan a specific browser data folder and export results to CSV
-
-ShadowExtension.exe -d <user_path> -json <output_path> -s
-→ Scan a specific browser data folder and export results to JSON
-
+```
+  • ShadowExtension.exe -s                                         Scan all local browsers (all users)
+  • ShadowExtension.exe -csv <output_path> -s                      Scan all local browsers and export results to CSV
+  • ShadowExtension.exe -json <output_path> -s                     Scan all local browsers and export results to JSON
+  • ShadowExtension.exe -d <user_path> -s                          Scan a specific browser data folder
+  • ShadowExtension.exe -d <user_path> -csv <output_path> -s       Scan a specific browser data folder and export results to CSV
+  • ShadowExtension.exe -d <user_path> -json <output_path> -s      Scan a specific browser data folder and export results to JSON
+```
 
 **Examples:**
 
