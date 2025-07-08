@@ -49,13 +49,11 @@ If you encounter warnings, please consider the following:
 - Adding an exclusion rule for the executable in your antivirus software.
 - Temporarily disabling your antivirus software.
 
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
 
 ## Contact
 
 For questions or feedback, please contact me via https://www.linkedin.com/in/guy-eldad/
-
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 © 2025 Guy Eldad. All rights reserved.
 
