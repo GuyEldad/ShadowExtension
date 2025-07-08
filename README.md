@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ShadowExtension.jpg" alt="ShadowExtension Banner" width="700">
+  <img src="ShadowExtension.jpg" alt="ShadowExtension Banner" width="750">
 </p>
 
 # ShadowExtension
