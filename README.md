@@ -9,6 +9,12 @@
 - Supports scanning both live systems and offline forensic collections.
 - Exports results to CSV or JSON reports for documentation and forensic analysis.
 
+  ## Download
+
+| Platform | Interface | Download |
+|----------|-----------|----------|
+| Windows  | CLI       | [ShadowExtension.7z](./ShadowExtension.7z) |
+
 **Usage:**
 
     ShadowExtension.exe -s
