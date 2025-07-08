@@ -37,7 +37,6 @@
 | -csv <output_path> | Export results to CSV. If a folder is provided, creates one CSV per browser/user. If a filename is provided, combines all into one CSV. |
 | -json <output_path>| Export results to JSON. If a folder is provided, creates one JSON per browser/user. If a filename is provided, combines all into one JSON. |
 
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 ## Important Notice
 
