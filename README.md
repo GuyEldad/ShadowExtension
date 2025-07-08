@@ -25,15 +25,15 @@ ShadowExtension.exe -d <user_path> -csv <output_path> -s       Scan a specific b
 ShadowExtension.exe -d <user_path> -json <output_path> -s      Scan a specific browser data folder and export results to JSON
 ```
 
-**Examples:**
-
-    ShadowExtension.exe -s
-    ShadowExtension.exe -csv C:\Users\<Username>\Desktop -s
-    ShadowExtension.exe -json C:\Users\<Username>\Desktop -s
-    ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -s
-    ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -csv C:\Users\<Username>\Desktop -s
-    ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -json C:\Users\<Username>\Desktop -s
-
+## Examples
+```
+ShadowExtension.exe -s
+ShadowExtension.exe -csv C:\Users\<Username>\Desktop -s
+ShadowExtension.exe -json C:\Users\<Username>\Desktop -s
+ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -s
+ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -csv C:\Users\<Username>\Desktop -s
+ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -json C:\Users\<Username>\Desktop -s
+```
 **Optional Arguments:**
 
 | Argument           | Description                                                                                       |
