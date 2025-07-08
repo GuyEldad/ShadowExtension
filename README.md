@@ -40,7 +40,7 @@
 
 ## Important Notice
 
-Some antivirus software may flag the executable version of this tool as a false positive. This is due to the way the tool interacts with system files and browser extension data. The tool is built using Python and PyInstaller, which can sometimes trigger heuristic detections.
+Some antivirus software may flag the executable version of this tool as a false positive. This is due to the way the tool interacts with system files and browser history databases. The tool is built using **Python** and **PyInstaller**, which can sometimes trigger heuristic detections.
 
 If you encounter warnings, please consider the following:
 
@@ -48,12 +48,10 @@ If you encounter warnings, please consider the following:
 - Adding an exclusion rule for the executable in your antivirus software.
 - Temporarily disabling your antivirus software.
 
-
-
 ## Contact
 
 For questions or feedback, please contact me via https://www.linkedin.com/in/guy-eldad/
 
-© 2025 Guy Eldad. All rights reserved.
 
-Created by: github.com/GuyEldad
+Copyright
+© 2025 Guy Eldad. All rights reserved.
