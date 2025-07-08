@@ -1,6 +1,6 @@
 # ShadowExtension
 
-**ShadowExtension** is a forensic tool build to detect potentially malicious browser extensions in Chrome, Edge, Firefox, Brave, Vivaldi, and Opera. The tool analyzes extension permissions, host access, and suspicious code behavior, exporting detailed findings to CSV and JSON formats for efficient analysis and investigation.
+**ShadowExtension** is a forensic tool built to detect potentially malicious browser extensions in Chrome, Edge, Firefox, Brave, Vivaldi, and Opera. The tool analyzes extension permissions, host access, and suspicious code behavior, exporting detailed findings to CSV and JSON formats for efficient analysis and investigation.
 
 ## Features
 - Detects potentially malicious browser extensions by analyzing permissions, host access, and code behavior.
