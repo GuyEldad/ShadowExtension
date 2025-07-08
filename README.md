@@ -34,7 +34,7 @@ ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data
 ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -csv C:\Users\<Username>\Desktop -s
 ShadowExtension.exe -d C:\Users\<Username>\AppData\Local\Google\Chrome\User Data\ -json C:\Users\<Username>\Desktop -s
 ```
-**Optional Arguments:**
+## Optional Arguments
 
 | Argument           | Description                                                                                       |
 |--------------------|---------------------------------------------------------------------------------------------------|
