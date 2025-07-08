@@ -1,8 +1,6 @@
 # ShadowExtension
 **ShadowExtension - A forensic tool to detect potentially malicious browser extensions in Chrome, Edge, Firefox, Brave, Vivaldi, and Opera. The tool analyzes extension permissions, host access, and suspicious code behavior, exporting detailed findings to CSV and JSON formats for efficient analysis and investigation.
 
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
 ## Features
 
 - Detects potentially malicious browser extensions by analyzing permissions, host access, and code behavior.
@@ -11,28 +9,20 @@
 - Supports scanning both live systems and offline forensic collections.
 - Exports results to CSV or JSON reports for documentation and forensic analysis.
 
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-## Download
-
-| Platform | Interface | Download |
-|----------|-----------|----------|
-| Windows  | CLI       | *(Coming soon)* |
-
-*(Add your download link after release!)*
-
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 ## Usage
 
 **Syntax:**
 
-- ShadowExtension.exe -s
-- ShadowExtension.exe -csv <output_path> -s
-- ShadowExtension.exe -json <output_path> -s
-- ShadowExtension.exe -d <user_path> -s
-- ShadowExtension.exe -d <user_path> -csv <output_path> -s
-- ShadowExtension.exe -d <user_path> -json <output_path> -s
+**Usage:**
+
+    ShadowExtension.exe -s
+    ShadowExtension.exe -csv <output_path> -s
+    ShadowExtension.exe -json <output_path> -s
+    ShadowExtension.exe -d <user_path> -s
+    ShadowExtension.exe -d <user_path> -csv <output_path> -s
+    ShadowExtension.exe -d <user_path> -json <output_path> -s
+
 
 **Examples:**
 
