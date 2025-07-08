@@ -9,7 +9,7 @@
 - Supports scanning both live systems and offline forensic collections.
 - Exports results to CSV or JSON reports for documentation and forensic analysis.
 
-  ## Download
+## Download
 
 | Platform | Interface | Download |
 |----------|-----------|----------|
