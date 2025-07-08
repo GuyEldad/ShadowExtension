@@ -18,6 +18,7 @@
 ## Usage
 
 ShadowExtension.exe -s
+
 → Scan all local browsers (all users)
 
 ShadowExtension.exe -csv <output_path> -s
