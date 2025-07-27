@@ -18,7 +18,7 @@
 
 | Platform | Interface | Download |
 |----------|-----------|----------|
-| Windows  | CLI       | [ShadowExtension.7z](./ShadowExtension.zip) |
+| Windows  | CLI       | [ShadowExtension.zip](./ShadowExtension.zip) |
 
 ## Usage
 ```
